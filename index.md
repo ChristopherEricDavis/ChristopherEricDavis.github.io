@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Consider this a page full of lorem ipsum text.
 
-You can use the [editor on GitHub](https://github.com/ChristopherEricDavis/ChristopherEricDavis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It'll fill up eventually, and I'm not sure if I'd like to delete the nice reference text just yet.  It'll eventually go, but I'll go over it a few more times and make something to replace it with first.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's my [LinkedIn Profile.](https://www.linkedin.com/in/christopher-davis-128831b8/)
 
 ### Markdown
 
@@ -27,10 +27,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristopherEricDavis/ChristopherEricDavis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
